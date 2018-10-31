@@ -10,7 +10,7 @@ class CreateDogs < ActiveRecord::Migration
   #    t.string :name
   #    t.string :breed
   #end
-#end 
+#end
 
 #  def down
 #    drop_table :dogs
